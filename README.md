@@ -77,7 +77,7 @@ ACCURACY:
 
 
 CONFUSION MATRIX:
-![cm](https://user-images.githubusercontent.com/94588708/165894158-85a5ef2d-905f-49c8-8e31-ed8d2bc9220f.png)
+![cm](https://user-images.githubusercontent.com/94588708/165894379-84e5d49d-5e0d-478a-a21c-9e05e7f3b8d0.png)
 
 
 CLASSIFICATION REPORT:
