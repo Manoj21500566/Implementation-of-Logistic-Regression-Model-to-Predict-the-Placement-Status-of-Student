@@ -73,10 +73,13 @@ PREDICTED VALUES:
 
 
 ACCURACY:
+
 ![accuracy](https://user-images.githubusercontent.com/94588708/165894118-04b825c3-a82d-4cc4-aa2d-7e7e3c0db47d.png)
 
 
 CONFUSION MATRIX:
+
+
 ![cm](https://user-images.githubusercontent.com/94588708/165894379-84e5d49d-5e0d-478a-a21c-9e05e7f3b8d0.png)
 
 
